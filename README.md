@@ -28,7 +28,7 @@ Step 2: Depth Estimation (Depth Anything V2)
     * Valid depth region
 * This ensures a more precise ROI for subsequent wire tracking and analysis.
 
-Step 3: Feature Tracking (CoTracker)
+Step 3: Feature Tracking (CoTracker V3)
 * Track the displacement of strands across frames using the CoTracker algorithm.
 * Output: Time-series of strand displacements.
   
