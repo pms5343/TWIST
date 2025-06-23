@@ -7,7 +7,7 @@
 MainFolder = "/your/custom/path"
 ```
 
-Experimental video of the tensioning strand should be placed in the Input_Video/ folder.
+Experimental video of the tensioning strand should be placed in the `Input_Video/` folder.
 
 # 2. Run the Main Pipeline
 Open and execute the notebook:
