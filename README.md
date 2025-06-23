@@ -1,7 +1,22 @@
 # Tension_aware_Wire_Tracker
 
-# 1. Preparation
+## System Requirements
+All experiments were conducted under the following hardware and software configuration:
 
+### Hardware Environment
+* Workstation: Dell Precision 7920 Rack
+* CPU: Intel Xeon Silver 4210R (10 cores, 20 threads, 2.4–3.2 GHz)
+* Memory: 128 GB DDR4-3200 ECC
+* GPU: NVIDIA RTX A6000 (48 GB GDDR6 ECC)
+* Storage: 1 TB NVMe SSD
+* Operating System: Ubuntu 20.04 LTS
+### Software Environment
+* Python: 3.10
+* PyTorch: 2.1.0 (with CUDA 12.1)
+* TensorFlow: 2.15 (with CUDA 11.7)
+* scikit-learn: 1.4
+  
+# 1. Preparation
 
 * Clone or download the code package from this repository.
 * Set the working directory:
