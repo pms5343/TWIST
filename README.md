@@ -33,7 +33,7 @@ Step 3: Feature Tracking (CoTracker V3)
 * Output: Time-series of strand displacements.
 
 Lay Angle Estimation
-The lay angle is estimated using LDC edge detection applied only to the first frame of the video.
+* The lay angle is estimated using LDC edge detection applied only to the first frame of the video.
 
   
 | Step | Module | GitHub | Version / Commit | License |
