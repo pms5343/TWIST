@@ -10,17 +10,30 @@ MainFolder = "/your/custom/path"
 ```
 Experimental video of the tensioning strand should be placed in the `Input_Video/` folder.
 
+### Depth-Anything
+
 * Download the `depth_anything_v2_vitl.pth` checkpoint file and place it in the `Depth-Anything-V2/checkpoints/` directory.
-* The pre-trained Depth-Anything checkpoint can be downloaded from the official repository:
-https://github.com/DepthAnything/Depth-Anything-V2#pre-trained-models
+* The pre-trained checkpoint can be downloaded from:  
+  https://github.com/DepthAnything/Depth-Anything-V2#pre-trained-models
+
+### SAM (Segment Anything Model)
 
 * Download the `sam2.1_hiera_large.pt` checkpoint file and place it in the `sam2_repo/checkpoints/` directory.
-* The pre-trained SAM checkpoint can be downloaded from the official repository:
-https://github.com/facebookresearch/sam2
+* The pre-trained checkpoint can be downloaded from:  
+  https://github.com/facebookresearch/sam2
+
+### Cotracker
 
 * Download the `scaled_offline.pth` checkpoint file and place it in the `co-tracker/cotracker/checkpoints/` directory.
-* The pre-trained Cotracker checkpoint can be downloaded from the official repository:
-https://github.com/facebookresearch/co-tracker
+* The pre-trained checkpoint can be downloaded from:  
+  https://github.com/facebookresearch/co-tracker
+
+| | Module | GitHub | Version / Commit | License |
+|------|------|--------|-------------|----------|
+| 1 | **SAM 2** – Segment Anything Model V2 | [`facebookresearch/sam2`](https://github.com/facebookresearch/sam2) | sam2.1 | Apache 2.0 |
+| 2 | **Depth Anything V2** | [`DepthAnything/Depth-Anything-V2`](https://github.com/DepthAnything/Depth-Anything-V2) | vitl | MIT |
+| 3 | **CoTracker** | [`facebookresearch/co-tracker`](https://github.com/facebookresearch/co-tracker) | CoTracker V3 | Apache 2.0 |
+
 
 # 2. Run the Main Pipeline
 Open and execute the notebook:
@@ -47,13 +60,8 @@ Step 3: Feature Tracking (CoTracker V3)
 
 Lay Angle Estimation
 * The lay angle is estimated using LDC edge detection applied only to the first frame of the video.
+ 
 
-  
-| Step | Module | GitHub | Version / Commit | License |
-|------|------|--------|-------------|----------|
-| 1 | **SAM 2** – Segment Anything Model V2 | [`facebookresearch/sam2`](https://github.com/facebookresearch/sam2) | sam2.1 | Apache 2.0 |
-| 2 | **Depth Anything V2** | [`DepthAnything/Depth-Anything-V2`](https://github.com/DepthAnything/Depth-Anything-V2) | vitl | MIT |
-| 3 | **CoTracker** | [`facebookresearch/co-tracker`](https://github.com/facebookresearch/co-tracker) | CoTracker V3 | Apache 2.0 |
 
 # Contributors
 <p>
