@@ -12,7 +12,7 @@ Experimental video of the tensioning strand should be placed in the `Input_Video
 # 2. Run the Main Pipeline
 Open and execute the notebook:
 ```python
-Package.ipynb
+Run.ipynb
 ```
 This notebook will guide you through the full processing pipeline.
 
