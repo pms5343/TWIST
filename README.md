@@ -100,7 +100,7 @@ The citation information will be available soon.
 
 
 <p>
-  <strong>Soojin Jin</strong>
+  <strong>Sujin Jin</strong>
   <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=SH8aOoEAAAAJ">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
