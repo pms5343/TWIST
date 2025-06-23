@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+2b90b9f5ceec907a1c18123530e92e794ad901a4 refs/remotes/origin/main
+0d6f9fec88e351e26222cb00573f77f67e7cd284 refs/remotes/origin/manifest
+ff9704fc0ebe9b555f41cde1449e2b06de4427dd refs/remotes/origin/pr364
+d2f83d0d54b256c22be0938a384aed582543e78c refs/remotes/origin/pr506
+5f469ca87e41dd88dcb5fa4d701fc7090e4a97a5 refs/remotes/origin/remove_extra_paths
+b744a3c08440cea2502649a4b3cad4283096fb8a refs/remotes/origin/ronghanghu/installation_faq
+e06b02860d9ad3a1ca695ada4860203d48acbccf refs/remotes/origin/ronghanghu/print_error_when_running_from_repo_parent_dir
+aa9b8722d0585b661ded4b3dff1bd103540554ae refs/remotes/origin/sam2.1
+b3eaddab6ffc1e98392137f3a581331581d51639 refs/remotes/origin/sam2_update/dev_20241211
+508b77940da98c6cc0806cab5eb6b0950620ed5f refs/remotes/origin/sapling-pr-archive-raedle

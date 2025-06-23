@@ -1,0 +1,10 @@
+2b90b9f5ceec907a1c18123530e92e794ad901a4		branch 'main' of https://github.com/facebookresearch/sam2
+0d6f9fec88e351e26222cb00573f77f67e7cd284	not-for-merge	branch 'manifest' of https://github.com/facebookresearch/sam2
+ff9704fc0ebe9b555f41cde1449e2b06de4427dd	not-for-merge	branch 'pr364' of https://github.com/facebookresearch/sam2
+d2f83d0d54b256c22be0938a384aed582543e78c	not-for-merge	branch 'pr506' of https://github.com/facebookresearch/sam2
+5f469ca87e41dd88dcb5fa4d701fc7090e4a97a5	not-for-merge	branch 'remove_extra_paths' of https://github.com/facebookresearch/sam2
+b744a3c08440cea2502649a4b3cad4283096fb8a	not-for-merge	branch 'ronghanghu/installation_faq' of https://github.com/facebookresearch/sam2
+e06b02860d9ad3a1ca695ada4860203d48acbccf	not-for-merge	branch 'ronghanghu/print_error_when_running_from_repo_parent_dir' of https://github.com/facebookresearch/sam2
+aa9b8722d0585b661ded4b3dff1bd103540554ae	not-for-merge	branch 'sam2.1' of https://github.com/facebookresearch/sam2
+b3eaddab6ffc1e98392137f3a581331581d51639	not-for-merge	branch 'sam2_update/dev_20241211' of https://github.com/facebookresearch/sam2
+508b77940da98c6cc0806cab5eb6b0950620ed5f	not-for-merge	branch 'sapling-pr-archive-raedle' of https://github.com/facebookresearch/sam2
