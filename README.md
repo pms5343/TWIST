@@ -6,5 +6,9 @@
 ```python
 MainFolder = "/your/custom/path"
 ```
+
+Experimental video of the tensioning strand should be placed in the Input_Video/ folder.
+This video will be used as the main input for behavior analysis.
+
 ## Citation  
 The citation information will be available soon.
