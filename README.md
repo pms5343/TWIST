@@ -16,5 +16,8 @@ Package.ipynb
 ```
 This notebook will guide you through the full processing pipeline.
 
+# Processing Steps
+
+
 ## Citation  
 The citation information will be available soon.
