@@ -62,8 +62,10 @@ Lay Angle Estimation
 * The lay angle is estimated using LDC edge detection applied only to the first frame of the video.
  
 
+# Citation  
+The citation information will be available soon.
 
-# Contributors
+## Contributors
 <p>
   <strong>Dongyoung Ko</strong>
   <a href="https://scholar.google.com/citations?user=uJ5Ot9kAAAAJ&hl=en">
@@ -102,7 +104,3 @@ Lay Angle Estimation
   </a>
 </p>
 
-
-
-## Citation  
-The citation information will be available soon.
