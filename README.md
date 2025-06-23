@@ -68,6 +68,7 @@ The citation information will be available soon.
 ## Contributors
 <p>
   <strong>Dongyoung Ko</strong>
+  <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   <a href="https://scholar.google.com/citations?user=uJ5Ot9kAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
@@ -78,6 +79,9 @@ The citation information will be available soon.
 
 <p>
   <strong>Minsoo Park</strong>
+  <a href="https://sites.google.com/view/iisc-lab" target="_blank">
+    <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/GWNU.svg" height="20" alt="GWNU Logo"/>
+  </a>
   <a href="https://scholar.google.com/citations?user=6dCUM5oAAAAJ&hl=En">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
@@ -88,6 +92,7 @@ The citation information will be available soon.
 
 <p>
   <strong>Taebum Lee</strong>
+  <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/SI.png" height="20" alt="SmartInside Logo"/>
   <a href="https://github.com/ltb1021">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -96,10 +101,11 @@ The citation information will be available soon.
 
 <p>
   <strong>Soojin Jin</strong>
+  <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   <a href="https://scholar.google.com/citations?user=6dCUM5oAAAAJ&hl=En">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="[https://github.com/pms5343](https://github.com/sujin1229)">
+  <a href="https://github.com/sujin1229">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
