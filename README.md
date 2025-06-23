@@ -10,13 +10,17 @@ MainFolder = "/your/custom/path"
 ```
 Experimental video of the tensioning strand should be placed in the `Input_Video/` folder.
 
-* Download the `depth_anything_v2_vitl.pth` file and place it in the `Depth-Anything-V2/checkpoints/` directory.
-* Pre-trained Depth-Anything checkpoint can be downloaded from the official repository:
+* Download the `depth_anything_v2_vitl.pth` checkpoint file and place it in the `Depth-Anything-V2/checkpoints/` directory.
+* The pre-trained Depth-Anything checkpoint can be downloaded from the official repository:
 https://github.com/DepthAnything/Depth-Anything-V2#pre-trained-models
 
-* Download the sam2.1_hiera_large.pt file and place it in the sam2_repo/checkpoints/ directory.
-* Pre-trained SAM checkpoint can be downloaded from the official repository:
+* Download the `sam2.1_hiera_large.pt` checkpoint file and place it in the `sam2_repo/checkpoints/` directory.
+* The pre-trained SAM checkpoint can be downloaded from the official repository:
 https://github.com/facebookresearch/sam2
+
+* Download the `scaled_offline.pth` checkpoint file and place it in the `co-tracker/cotracker/checkpoints/` directory.
+* The pre-trained Cotracker checkpoint can be downloaded from the official repository:
+https://github.com/facebookresearch/co-tracker
 
 # 2. Run the Main Pipeline
 Open and execute the notebook:
