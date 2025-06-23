@@ -3,7 +3,6 @@
 # Contributors
 <p>
   <strong>Dongyoung Ko</strong>
-  <img src="https://www.skku.edu/skku/images/skku/logo.png" height="20"/>
   <a href="https://scholar.google.com/citations?user=uJ5Ot9kAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
@@ -14,7 +13,6 @@
 
 <p>
   <strong>Minsoo Park</strong>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gangneung-Wonju_National_University_emblem.svg/120px-Gangneung-Wonju_National_University_emblem.svg.png" height="20"/>
   <a href="https://scholar.google.com/citations?user=6dCUM5oAAAAJ&hl=En">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
@@ -22,6 +20,25 @@
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<p>
+  <strong>Taebum Lee</strong>
+  <a href="https://github.com/pms5343">
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+
+<p>
+  <strong>Soojin Jin</strong>
+  <a href="https://scholar.google.com/citations?user=6dCUM5oAAAAJ&hl=En">
+    <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="[https://github.com/pms5343](https://github.com/sujin1229)">
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 
 
