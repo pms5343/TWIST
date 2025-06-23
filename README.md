@@ -65,7 +65,7 @@ Lay Angle Estimation
 
 <p>
   <strong>Taebum Lee</strong>
-  <a href="https://github.com/pms5343">
+  <a href="https://github.com/ltb1021">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
