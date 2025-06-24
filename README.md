@@ -83,11 +83,13 @@ The citation information will be available soon.
 ## Contributors
 <p>
   <strong>Dongyoung Ko</strong>
-  <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
-  <a href="https://scholar.google.com/citations?user=uJ5Ot9kAAAAJ&hl=en">
+  <a href="https://sites.google.com/view/skkuscit" target="_blank">
+    <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=uJ5Ot9kAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://github.com/ehddud3555-skku">
+  <a href="https://github.com/ehddud3555-skku" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -107,6 +109,7 @@ The citation information will be available soon.
 
 <p>
   <strong>Taebum Lee</strong>
+  <a href="https://smartinside.ai/" target="_blank">
   <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/SI.png" height="20" alt="SmartInside Logo"/>
   <a href="https://github.com/ltb1021">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -116,6 +119,7 @@ The citation information will be available soon.
 
 <p>
   <strong>Sujin Jin</strong>
+  <a href="https://sites.google.com/view/skkuscit" target="_blank">
   <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=SH8aOoEAAAAJ">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
