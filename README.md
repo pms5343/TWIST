@@ -49,6 +49,23 @@ Experimental video of the tensioning strand should be placed in the `Input_Video
 | 2 | **Depth Anything V2** | [`DepthAnything/Depth-Anything-V2`](https://github.com/DepthAnything/Depth-Anything-V2) | vitl | MIT |
 | 3 | **CoTracker** | [`facebookresearch/co-tracker`](https://github.com/facebookresearch/co-tracker) | CoTracker V3 | Apache 2.0 |
 
+### Lightweight Dense CNN for Edge Detection
+
+* Download code from https://github.com/xavysp/LDC
+* For custom usage:
+- **[main.py]** Set input image directory:  
+  `--input_val_dir=/your/image/folder`
+
+- **[main.py]** Set output directory for results:  
+  `--output_dir=/your/output/folder`
+
+- **[main.py]** Match image resolution to your data:  
+  `--img_width=YOUR_WIDTH` and `--img_height=YOUR_HEIGHT`  
+  (e.g., 1080×710)
+
+- **[img_processing.py]** Adjust edge map threshold:  
+  ```python
+  tensor = np.where(tensor >= 0.70, tensor, 0)  # threshold for edge map
 
 # 2. Run the Main Pipeline
 Open and execute the notebook:
