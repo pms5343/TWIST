@@ -49,7 +49,7 @@ Experimental video of the tensioning strand should be placed in the `Input_Video
 | 2 | **Depth Anything V2** | [`DepthAnything/Depth-Anything-V2`](https://github.com/DepthAnything/Depth-Anything-V2) | vitl | MIT |
 | 3 | **CoTracker** | [`facebookresearch/co-tracker`](https://github.com/facebookresearch/co-tracker) | CoTracker V3 | Apache 2.0 |
 
-### Lightweight Dense CNN for Edge Detection
+### LDC (Lightweight Dense CNN for Edge Detection)
 
 * Download code from https://github.com/xavysp/LDC
 * For custom usage:
@@ -92,8 +92,8 @@ Step 3: Feature Tracking (CoTracker V3)
 
 Lay Angle Estimation
 * The lay angle is estimated using LDC edge detection applied only to the first frame of the video.
+* Run `Edge(LDC).ipynb` to estimate the lay angle for all frames.
  
-
 # Citation  
 The citation information will be available soon.
 
