@@ -95,6 +95,7 @@ Lay Angle Estimation
 * Run `Edge(LDC).ipynb` to estimate the lay angle for all frames.
  
 # Citation  
+Vision-based Automated Cable Tension Monitoring Using Pixel Tracking
 The citation information will be available soon.
 
 ## Contributors
