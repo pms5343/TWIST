@@ -145,4 +145,13 @@ The citation information will be available soon.
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
+    
+<p>
+  <strong>Seunghee Park</strong>
+  <a href="https://sites.google.com/view/skkuscit" target="_blank">
+    <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=_CUQYq8AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+</p>
