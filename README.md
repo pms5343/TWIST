@@ -1,4 +1,4 @@
-# Tension_aware_Wire_Tracker
+# TWIST: Tension from WIre-image Strand Tracking
 
 ## System Requirements
 All experiments were conducted under the following hardware and software configuration:
