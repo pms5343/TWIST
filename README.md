@@ -1,4 +1,5 @@
-# TWIST: Tension from WIre-image Strand Tracking
+# TWIST: Tension from Wire-image Strand Tracking
+
 
 ## System Requirements
 All experiments were conducted under the following hardware and software configuration:
