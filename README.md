@@ -1,6 +1,6 @@
 # TWIST: Tension from Wire-image Strand Tracking
 ## Vision-based Automated Cable Tension Monitoring Using Pixel Tracking
-Dongyoung Ko, Minsoo Park∗, Soojin Jin, PA PA WIN AUNG, Seunghee Park∗
+Dongyoung Ko, Minsoo Park∗, Soojin Jin, Pa Pa Win Aung, Seunghee Park∗
 
 ## Abstract
 Traditional methods for monitoring cable tension rely on indirect measurements such as cable vibrations and often require specialized calibration. These approaches limit the efficiency, and non-contact capability of tension monitoring across various structures. This paper presents a vision-based framework for automated cable tension monitoring, which directly captures image data of internal steel strands. By leveraging advanced computer vision techniques such as zero-shot segmentation, depth estimation, edge detection, and dense pixel tracking critical geometric parameters are extracted and integrated into a kinematic-based model for tension estimation. A calibration-free method for estimating real-world pixel size, derived from the helical geometry of the strands, enables field deployment without the need for camera setup information. Experimental results show strong correlation with reference data, achieving a mean absolute error of 4.94% under elastic conditions. These findings pave the way for a promising alternative in vision-based structural health monitoring for prestressed structures.
