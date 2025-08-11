@@ -153,7 +153,7 @@ The citation information will be available soon.
 
 <p>
   <strong>Pa Pa Win Aung</strong>
-  <a href="https://sites.google.com/view/skkuscit" target="_blank">
+  <a href="https://www.ppwa.info/" target="_blank">
   <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   <a href="https://scholar.google.com/citations?user=p9MXvbsAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
