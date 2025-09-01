@@ -104,7 +104,7 @@ The citation information will be available soon.
 
 ## Contributors
 <p>
-  <strong>Dongyoung Ko</strong>
+  <strong>Dongyoung Ko∗</strong>
   <a href="https://sites.google.com/view/skkuscit" target="_blank">
     <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   </a>
@@ -117,7 +117,7 @@ The citation information will be available soon.
 </p>
 
 <p>
-  <strong>Minsoo Park</strong>
+  <strong>Minsoo Park∗</strong>
   <a href="https://sites.google.com/view/iisc-lab" target="_blank">
     <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/GWNU.svg" height="20" alt="GWNU Logo"/>
   </a>
@@ -164,7 +164,7 @@ The citation information will be available soon.
 </p>
     
 <p>
-  <strong>Seunghee Park</strong>
+  <strong>Seunghee Park∗</strong>
   <a href="https://sites.google.com/view/skkuscit" target="_blank">
     <img src="https://github.com/pms5343/Tension_aware_Wire_Tracker/raw/main/logo/skku.svg" height="20" alt="SKKU Logo"/>
   </a>
