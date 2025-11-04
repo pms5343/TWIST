@@ -102,6 +102,7 @@ Lay Angle Estimation
 * Run `Edge(LDC).ipynb` to estimate the lay angle for all frames.
  
 # Citation  
+```bibtex
 @article{ko2025vision,
   title={Vision-based automated cable tension monitoring using pixel tracking},
   author={Ko, Dongyoung and Park, Minsoo and Jin, Sujin and Aung, Pa Pa Win and Park, Seunghee},
@@ -111,6 +112,7 @@ Lay Angle Estimation
   year={2025},
   publisher={Elsevier}
 }
+```
 
 ## Contributors
 <p>
