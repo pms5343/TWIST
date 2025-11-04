@@ -1,6 +1,9 @@
 # TWIST: Tension from Wire-image Strand Tracking
 ## Vision-based Automated Cable Tension Monitoring Using Pixel Tracking
-Dongyoung Ko, Minsoo Park∗, Soojin Jin, Pa Pa Win Aung, Seunghee Park∗,Automation in Construction
+Dongyoung Ko, Minsoo Park∗, Soojin Jin, Pa Pa Win Aung, Seunghee Park∗,
+* Coressponding Authors
+
+Automation in Construction
 
 Vol. 179, No.106488, pp. 1-19, Nov 2025, DOI:https://doi.org/10.1016/j.autcon.2025.106488
 
